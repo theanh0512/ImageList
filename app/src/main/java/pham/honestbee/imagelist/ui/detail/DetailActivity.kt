@@ -20,7 +20,7 @@ class DetailActivity : AppCompatActivity() {
         binding = DataBindingUtil.setContentView(this, R.layout.activity_detail)
         if (intent != null) {
             val requestOptions = RequestOptions()
-            requestOptions.placeholder(R.drawable.ic_loading_ph)
+            requestOptions.placeholder(R.drawable.image_ph)
                     .error(R.drawable.no_image)
                     .fitCenter()
             binding?.imageViewAvatar?.let {
