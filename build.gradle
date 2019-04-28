@@ -36,9 +36,10 @@ ext {
     dagger2Version = "2.17"
     glideVersion = "4.8.0"
     retrofitVersion = "2.4.0"
-    okhttpVersion = "3.11.0"
+    okhttpVersion = "3.14.1"
     databindingVersion = "3.1.4"
     lifecycleVersion = "1.1.1"
     rxlocationVersion = "1.0.5"
     playLocationVersion = "15.0.1"
+    mockitoVersion = "2.12.0"
 }

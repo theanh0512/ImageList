@@ -1,4 +1,4 @@
-package pham.honestbee.imagelist
+package pham.honestbee.imagelist.ui
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4
